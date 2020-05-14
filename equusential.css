@@ -1,0 +1,52 @@
+/* equusential logo: https://lh3.googleusercontent.com/pw/ACtC-3eHMAUDS9qv9-K5b-ciXsGP5mEqa1vDc2O66ERyc8k0oDZ6fFUT7JlueClY_ITpP3J7Pzl2Q-J7N96tE2PhlgYrE8WAe3pgGIEHHZ-ELZbdMRA67cJ5jsxJENrp1xlC_QQTjNKhhCogEyM9WQa8EYjoRw=s604-no?authuser=0 */
+/* vetty and squirrel pic: https://lh3.googleusercontent.com/IBqGnwzxZnl7w5ZUz8zW4jviuHfrFdQfZxw9YiM1K4a4cM8CAm9fR2cdOBaToS8r-_HUIEpv5AVeHr2H6OUcMdjz1LhpJHBe7r_RMzYfC_jAmOLBVQ8QPvOm--Q2smeM00FxmcG2i1r-vYv6zhX-pwl2_Dozg18yu5yfvgnz0PHF-TmSraOA1yiC7bZ9cnviyvGhjiTlchmgr0Mhubmc3efwqkaOHDKnh9cS_BiYy5Yc0SDxhwCfxWutQnG3zcvESI88qNElqarnI-0BMVLvWHFD-ZmxExUmyHX1cl23e1W32eJYQVk3Orlxlylech6imvRPqopQIhI5qJ5GnFh_zbHxsquXYYQwxBAC65dX_4pYVh1uwbhb4JYEg5vboP0z3bLNBrfXnvQ87a5UDD8zdrZKuryTaewASOyJtxLDm3aTFvBIjim9EwvOk9ZhwsASt8AZXes9iQrIfrCU9iKTVouw_TkyP-CHDgCz_C2-cQMfk3nTrL3lpjFmlcO7JF6VmAYZ5bDPgfjHt14C_iDQe7Z1VBwnsz0P2TCefrjjAesNr66Dc93CmLLxi4DUKrmBlWa48YzJt86awLKU9jcNMlpnq5yCNmnWkFBQF24oZlX1G8UZeisQdJP9fDnpDN7Jr6wIig8v2hfi6BdGYtmuaB-jENi2BVqUZibuu1XbHWBYAp5regq2GDS-E4ksnqQ=w371-h555-no?authuser=0 */
+/*horses pic: https://lh3.googleusercontent.com/zKzdiSrTIhx-bRp9ngnqvQQU1uUnKEgZT_pVr1bMvWehjOITokQgTMpkOkIZhErSmGtgvUsSJQUX6fccbU2qIZPE0akycAUhe39gj2iGRztKTnfko9TD6cwMbYrkRip-QqbQKmV9_AmG6E3-kmE5udmzBkgChieydUi8R8-LJFwGXwmQ2ItqpK6bSVIjGuQ3KsYImpm0EyotM-EQ7lifP7IZpWyKUx0OTYy6024tL-2gvbzzhbXduq60dTvyHgihYjBdqZCCBasCop0u40ArKMwb9zStoq-iQDbHvZqPJVmofaLd2_N4goGTIwm6xe20MQ6PXqGdvYzr23pxl_p2yXQEogezzzkBi3b3V27zmvF_CMIla1UZ6JLeXahZdLDI38Vh2bC_DM7Oy83QQ_B5ju6DaG063GlVgQ9R-csbReAS6C26dJAkOGO9kPyUfmsAY7EloDXeqEeml2EhV_QCqAi_ehvKCGGI2bvGivo6Uft5n9Q5CddFnsCTE3n2LfZXY6ftK6Q4npYtrBd5ZKqvOtoE8rGDgYQCGzhRkqo8_IJ11DV3Ts8bs0ZStgVVGAWhC73BXpoHghSO6hoBjWz-g3rny9bWQ531C0IWdMWVrO48UzthvM1KSDSviIsjJIEk2ruYjYo2Gs-QwK0hNdA3N3uAlNxRp8xNfN8zPUBoW0708wqHFadwWrnM76NlKWg=s555-no?authuser=0
+/* equusential font Trajan Pro regular (close match)*/
+/* equusential color scheme 
+dominant colour #835e14; logo background #440806
+backdrop #eeebe0; light grey #ae9f97
+greybrown #887054; light gold #887054
+choc brown #4a302e; lightest gold #c4ac77
+second lightest #c4b474; light brown #a47c3c
+*/
+
+h1 
+{
+    color: #440806
+}
+
+h2 
+{
+    color: #4a302e;
+}
+
+.img-fluid 
+{
+    border-radius: 30px;
+    width: 300px;
+    height: auto;
+
+}
+
+.card-img-top 
+{
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+}
+
+
+body 
+{
+    font-family:'Palatino', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #eeebe0; 
+}
+
+footer 
+{
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+}

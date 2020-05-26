@@ -22,17 +22,17 @@ h2
 
 .img-fluid 
 {
-    border-radius: 30px;
-    width: 300px;
+    border-radius: 10px;
+    width: 350px;
     height: auto;
 
 }
 
 .card-img-top 
 {
-    width: 200px;
+    width: 250px;
     height: auto;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 

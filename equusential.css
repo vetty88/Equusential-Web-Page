@@ -11,37 +11,78 @@ second lightest #c4b474; light brown #a47c3c
 */
 
 h1 {
-    color: #440806
-  }
-  
-  h2 {
+    font-family: "Gill Sans";
+    font-size: 23px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 23px;
+}
+
+h3 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 23px;
+}
+
+p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+blockquote {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+pre {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+/* h2 {
     color: #4a302e;
-  }
-  
-  .img-fluid {
+}
+ */
+.img-fluid {
     border-radius: 10px;
     width: 350px;
     height: auto;
-  
-  }
-  
-  .card-img-top {
+
+}
+
+.card-img-top {
     width: 250px;
     height: auto;
     border-radius: 10px;
-  }
-  
-  body {
+}
+
+/* body {
     font-family: 'Palatino', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #eeebe0;
-  }
-  
-  footer {
+} */
+
+footer {
     position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
     height: 30px;
     text-align: center;
-  
-  }
+
+}

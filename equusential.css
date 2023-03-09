@@ -78,11 +78,20 @@ pre {
 } */
 
 footer {
-    position: static;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 30px;
-    text-align: center;
+background-color: #000;
+color: #FFFFFF;
+font-size:.8em;
+margin-top:25px;
+padding-top: 15px;
+padding-bottom: 10px;
+position:fixed;
+left:0;
+bottom:0;
+width:100%;
+}
 
+@media only screen and (max-width: 767px){
+    footer {
+      position:static;
+    }
 }

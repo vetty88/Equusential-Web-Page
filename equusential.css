@@ -81,12 +81,12 @@ footer {
 background-color: #000;
 color: #FFFFFF;
 font-size:.8em;
-margin-top:25px;
+margin-top:15px;
 padding-top: 15px;
-padding-bottom: 10px;
+padding-bottom: 15px;
 position:fixed;
 left:0;
-bottom:0;
+bottom:15px;
 width:100%;
 }
 

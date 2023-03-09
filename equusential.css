@@ -72,21 +72,18 @@ pre {
     border-radius: 10px;
 }
 
-/* body {
-    font-family: 'Palatino', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #eeebe0;
-} */
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
 
-footer {
-/*   position: fixed; */
-  left: 0;
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
   bottom: 0;
   width: 100%;
-  color: white;
-  text-align: center;
-}
-@media only screen and (max-width: 767px){
-    footer {
-      position:static;
-    }
+  height: 2.5rem;            /* Footer height */
 }
